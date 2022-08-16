@@ -1,0 +1,1 @@
+Refer the website for golang learnings- https://go.dev/doc/effective_go
